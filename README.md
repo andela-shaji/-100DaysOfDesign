@@ -5,3 +5,6 @@
 ### Day 2
 <img src="/Day2/signup.png" height="30%" width="30%">
 <img src="/Day2/login.png" height="30%" width="30%">
+
+### Day 3
+<img src="/Day3/day3.png" height="30%" width="30%">
