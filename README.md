@@ -8,3 +8,6 @@
 
 ### Day 3
 <img src="/Day3/day3.png" height="30%" width="30%">
+
+### Day 4
+<img src="/Day4/Day4.png" height="30%" width="30%">
