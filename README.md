@@ -16,4 +16,4 @@
 <img src="/Day5/Day5.png" height="30%" width="30%">
 
 ### Day 6
-<img src="/Day6/day6.png" height="30%" width="30%">
+<img src="/Day6/Day6.png" height="30%" width="30%">
