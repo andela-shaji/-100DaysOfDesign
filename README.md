@@ -17,3 +17,8 @@
 
 ### Day 6
 <img src="/Day6/Day6.png" height="30%" width="30%">
+
+### Day 7
+<img src="/Day7/1.png" height="30%" width="30%">
+<img src="/Day7/2.png" height="30%" width="30%">
+<img src="/Day7/3.png" height="30%" width="30%">
