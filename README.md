@@ -24,4 +24,4 @@
 <img src="/Day7/3.png" height="30%" width="30%">
 
 ### Day 8
-<img src="/Day7/Day8.png" height="30%" width="60%">
+<img src="/Day8/Day8.png" height="30%" width="90%">
