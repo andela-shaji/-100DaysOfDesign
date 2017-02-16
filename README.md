@@ -16,3 +16,10 @@
 
 ### Day 8
 <img src="/Day8/Day8.png" height="30%" width="90%">
+
+
+### Day 9 - Creating Gradients
+
+| <img src="/Day9/Gradient 1.png"> | <img src="/Day9/Gradient 2.png">| <img src="/Day9/Gradient 3.png"> | <img src="/Day9/Gradient 4.png"> |
+| ------------- |:-------------:|:-------------:| -----:|
+
