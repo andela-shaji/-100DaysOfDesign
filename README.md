@@ -24,9 +24,11 @@
 | ------------- |:-------------:|:-------------:| -----:|
 
 ### Day 10
-<<<<<<< HEAD
 <img src="/Day10/login.png" height="30%" width="40%">
 
 ## Day 11
 <img src="/Day11/Day11.png" height="30%" width="40%">
+
+## Day 12, 13 and 14
+<img src="/Day14/Day14.png" height="30%" width="100%">
 
