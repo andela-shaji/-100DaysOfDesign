@@ -23,11 +23,9 @@
 | <img src="/Day9/Gradient 1.png"> | <img src="/Day9/Gradient 2.png">| <img src="/Day9/Gradient 3.png"> | <img src="/Day9/Gradient 4.png"> |
 | ------------- |:-------------:|:-------------:| -----:|
 
-### Day 10
-<img src="/Day10/login.png" height="30%" width="40%">
-
-## Day 11
-<img src="/Day11/Day11.png" height="30%" width="40%">
+| Day 10 | Day 11 |
+| ------------- |:-------------:|
+| <img src="/Day10/login.png"> | <img src="/Day11/Day11.png">|
 
 ## Day 12, 13 and 14
 <img src="/Day14/Day14.png" height="30%" width="100%">
