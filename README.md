@@ -24,5 +24,5 @@
 | ------------- |:-------------:|:-------------:| -----:|
 
 ### Day 10
-<img src="/Day10/Day10.png" height="30%" width="40%">
+<img src="/Day10/login.png" height="30%" width="40%">
 
