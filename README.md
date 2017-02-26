@@ -38,4 +38,3 @@
 
 <img src="/Day17/Day17.png" height="30%" width="90%">
 
-
