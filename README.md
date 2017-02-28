@@ -34,7 +34,7 @@
 | ------------- |:-------------:|
 | <img src="/Day15/image1.png"> | <img src="/Day16/image2.png"> <img src="/Day16/image3.png"> <img src="/Day16/image4.png">|
 
-| Day 17 | Day 18 |
-| ------------- |:-------------:|
-| <img src="/Day17/Day17.png"> | <img src="/Day18/Day18.png">|
+| Day 17        | Day 18           | Day 19  |
+| ------------- |:-------------:| -----:|
+| <img src="/Day17/Day17.png">      | <img src="/Day18/Day18.png"> | <img src="/Day19/Day19.png"> |
 
