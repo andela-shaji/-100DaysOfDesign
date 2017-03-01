@@ -38,3 +38,5 @@
 | ------------- |:-------------:| -----:|
 | <img src="/Day17/Day17.png">      | <img src="/Day18/Day18.png"> | <img src="/Day19/Day19.png"> |
 
+### Day 20
+<img src="/Day20/Day20.png" height="30%" width="90%">
