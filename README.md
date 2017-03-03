@@ -41,3 +41,6 @@
 | Day 20 | Day 21 |
 | ------------- |:-------------:|
 | <img src="/Day20/Day20.png"> | <img src="/Day21/Day21.png">|
+
+### Day 22
+<img src="/Day22/Day22.png" height="30%" width="90%">
