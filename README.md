@@ -42,5 +42,6 @@
 | ------------- |:-------------:|
 | <img src="/Day20/Day20.png"> | <img src="/Day21/Day21.png">|
 
-### Day 22
-<img src="/Day22/Day22.png" height="30%" width="90%">
+| Day 22 | Day 23 |
+| ------------- |:-------------:|
+| <img src="/Day22/Day22.png"> | <img src="/Day23/Day23.png">|
