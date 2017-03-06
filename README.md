@@ -42,7 +42,6 @@
 | ------------- |:-------------:|
 | <img src="/Day20/Day20.png"> | <img src="/Day21/Day21.png">|
 
-| Day 22        | Day 23           | Day 24  |
-| ------------- |:-------------:| -----:|
-| <img src="/Day22/Day22.png">      | <img src="/Day23/Day23.png"> | <img src="/Day24/Day24.png"> |
-
+| Day 22 | Day 23 | Day 24  | Day 25 |
+| ------------- |:-------------:|:-------------:| -----:|
+| <img src="/Day22/Day22.png">      | <img src="/Day23/Day23.png"> | <img src="/Day24/Day24.png">| <img src="/Day25/Day25.png">|
