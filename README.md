@@ -32,4 +32,5 @@
 
 | Day 15 | Day 16 |
 | ------------- |:-------------:|
-| <img src="/Day15/image1.png"> | <img src="/Day16/image2.png">|
+| <img src="/Day15/image1.png"> | <img src="/Day16/image2.png"> <img src="/Day16/image3.png"> <img src="/Day16/image4.png">|
+
