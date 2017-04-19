@@ -49,4 +49,3 @@
 ### Day 26
 <img src="/Day26/Annie's Restaurant.png" height="30%" width="90%">
 
-
