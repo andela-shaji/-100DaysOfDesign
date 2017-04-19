@@ -46,7 +46,6 @@
 | ------------- |:-------------:|:-------------:| -----:|
 | <img src="/Day22/Day22.png">      | <img src="/Day23/Day23.png"> | <img src="/Day24/Day24.png">| <img src="/Day25/Day25.png">|
 
-### Day 26
+### Day 26 - 28
 <img src="/Day26/Annie's Restaurant.png" height="30%" width="90%">
-
 
